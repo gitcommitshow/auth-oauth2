@@ -1,6 +1,6 @@
 # auth-oauth2
 
-Learn oauth2.0 by reverse engineering - demo of various oAuth2 providers such as twitter, github, google
+Learn oauth2.0 by reverse engineering. Demo of various oAuth2 providers such as twitter, github, google explaining the complete workflow along the way.
 
 ## How to use it
 
