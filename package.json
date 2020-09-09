@@ -1,0 +1,37 @@
+{
+    "name": "auth-oauth2",
+    "version": "1.0.0",
+    "description": "Learning oauth2.0 by reverse engineering - demo of various oAuth2 providers such as twitter, github, google",
+    "main": "index.js",
+    "author": {
+        "name": "Pradeep Sharma",
+        "url": "https://github.com/gitcommitshow"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gitcommitshow/auth-oauth2"
+    },
+    "bugs": "https://github.com/gitcommitshow/auth-oauth2/issues",
+    "homepage": "",
+    "private": false,
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "oauth",
+        "oauth2.0",
+        "authorization"
+    ],
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "randomstring": "^1.1.5"
+    },
+    "engines": {
+        "node": ">= 8.0.0"
+    }
+}
